@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@hooks/*": ["./src/hooks/*"],
+      "@components/*": ["./src/components/*"],
+      "@lib/*": ["./src/lib/*"],
+      "@gqlTypes": ["./src/gqlTypes.d.ts"],
+      "@UI": ["./src/UI.tsx"]
+    }
+  }
+}

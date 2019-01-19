@@ -1,0 +1,1 @@
+Miscellaneous React/Apollo/Mobx/Helpers/Simplifiers/Hooks.  Feel free to use.
